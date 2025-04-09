@@ -69,10 +69,3 @@ others = [
     "Solitude!",
     "Now They Shocked!"
 ]
-
-
-def rc_playlist():
-    allsongs = gc3 + gc2 + b2mr + others
-    random.shuffle(allsongs)
-    playlist = allsongs[:10]
-    return playlist
