@@ -1,13 +1,12 @@
 import random
 
 gc3 = [
-    "Laws of Power",
     "God\'s Child!",
     "All My Duffles Goyard",
     "Chelsea, NY",
     "Backseat!",
     "Toothache & Gaslighting!",
-    "You > Them (Hate It!)"
+    "You > Them (Hate It!)",
     "Them > You (Gotta Go!)",
     "My Collection! 2",
     "No Good!",
@@ -15,7 +14,9 @@ gc3 = [
     "Still the Same! 2",
     "If It Means Anything!",
     "If It Means Anything! 2",
+    "Like That!",
     "Girl From the Club! 2",
+    "Cowgirl!",
     "50M Freestyle!",
     "Can't Rent Anymore!",
     "Twotimestwo!",
@@ -31,7 +32,7 @@ gc2 = [
     "Inside My Head!",
     "Can We Talk!",
     "Golden Child!",
-    "Jay N Bey!"
+    "Jay N Bey!",
     "Should Know Me Better!",
     "Myself!"
 ]
@@ -56,7 +57,7 @@ b2mr = [
 ]
 
 others = [
-    "Not 3 Not 2!"
+    "Not 3 Not 2!",
     "Comedy!",
     "Recollections of Loyalty and Pain!",
     "Girl From the Club!",
