@@ -13,6 +13,16 @@ Great beginner project to learn Python lists, input/output, and randomness!
 - Python 3
 - Built-in `random` module
 
+## 📁 Project Structure
+.
+├── playlistgenerator.py # The main Python script for generating playlists 
+├── playlistfunctions.py # The Python script for function implementation for playlist generation
+├──autumnsongs.py # Discography/List of songs used
+└── README.md # Project overview and usage instructions
+
+## Credits
+Created by [@JoshO-14](https://github.com/JoshO-14)
+
 
 
 
