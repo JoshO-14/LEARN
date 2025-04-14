@@ -1,6 +1,6 @@
 import autumnsongs
 import time
-import playlist
+import playlistfunctions
 
 gc3 = autumnsongs.gc3
 gc2 = autumnsongs.gc2
@@ -32,16 +32,16 @@ while menu:
         print("Here is your playlist:")
         print("--------------------------------------------------")
         time.sleep(1)
-        songs = playlist.randcurplaylist(num_of_songs)
+        songs = playlistfunctions.randcurplaylist(num_of_songs)
         for song in songs:
             print(song)
             time.sleep(0.1)
             print("--------------------------------------------------")
     elif playlistch == "2":
-        playlist.man_playlist()
+        playlistfunctions.man_playlist()
         time.sleep(1)
     elif playlistch == "3":
-        playlist.display_playlist()
+        playlistfunctions.display_playlist()
         time.sleep(1)
     elif playlistch == "4":
         print("Here are all of Autumn's songs:")

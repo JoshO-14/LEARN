@@ -5,9 +5,14 @@ This is a simple Python project that creates a randomized music playlist from th
 Great beginner project to learn Python lists, input/output, and randomness!
 
 ## 💡 Features
-- Discography from Autumn!
-- Generates a random playlist using predefined songs
+- View Discography from Autumn!
+- Generates a random playlist using predefined songs, or select your own songs.
 - Console-based interaction
+
+## 🛠 Tech Stack
+- Python 3
+- Built-in `random` module
+
 
 
 
